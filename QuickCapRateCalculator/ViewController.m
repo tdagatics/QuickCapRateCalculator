@@ -26,12 +26,12 @@
     // Dispose of any resources that can be recreated.
 }
 
-//- (IBAction)capRateButton:(id)sender {
+- (IBAction)capRateButton:(id)sender {
     
-//}
+}
 
-//- (IBAction)valuationButton:(id)sender {
-//}
+- (IBAction)valuationButton:(id)sender {
+}
 
 
 @end

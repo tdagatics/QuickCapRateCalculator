@@ -10,11 +10,11 @@
 
 @interface ViewController : UIViewController
 
-//@property (strong, nonatomic) IBOutlet UITextField *textField;
-//@property (strong, nonatomic) IBOutlet UILabel *capRateLabel;
+@property (strong, nonatomic) IBOutlet UITextField *textField;
+@property (strong, nonatomic) IBOutlet UILabel *capRateLabel;
 
 
-//- (IBAction)capRateButton:(id)sender;
-//- (IBAction)valuationButton:(id)sender;
+- (IBAction)capRateButton:(id)sender;
+- (IBAction)valuationButton:(id)sender;
 
 @end
